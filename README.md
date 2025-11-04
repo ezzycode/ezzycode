@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ezzycode
+- 👋 Hi, I am Enyia Ezekiel Iheanyichukwu 
+- Founder and CEO of BetterEat247 PLC
 -   I am a FRONTEND WEB DEV tending towards BACKEND to become a FULLSTACK WEB DEV.
 - 👀 I’m interested in fullstack Development,DevOps,and Cybersecurity
 - 🌱 I’m currently learning ... i dont stop learning actually
